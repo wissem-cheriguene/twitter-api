@@ -1,4 +1,10 @@
 {
+    "abraham/twitteroauth": {
+        "version": "2.0.1"
+    },
+    "composer/ca-bundle": {
+        "version": "1.2.9"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
@@ -87,6 +93,9 @@
             "src/Controller/.gitignore",
             "src/Kernel.php"
         ]
+    },
+    "symfony/http-client": {
+        "version": "v5.2.4"
     },
     "symfony/http-client-contracts": {
         "version": "v2.3.1"
